@@ -3,7 +3,7 @@ description:
 
 url: https://https://weebaruto.github.io
 # Only necessary when hosting your site in a sub-directory. Project sites hosted on GitHub Pages are the common use-case of this variable.
-baseurl: Ex: /weeblog
+baseurl: /weeblog
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
