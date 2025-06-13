@@ -27,18 +27,8 @@
 		property="article:published_time"
 	/>
 	<meta content="{{ '/about/' | absolute_url }}" property="article:author" />
-	{%- endif -%} {%- if page.image -%}
-	<meta
-		content="{{ 'https://weebaruto.github.io/weeblog/assets/img/touring.jpg'}}"
-		property="og:image"
-	/>
-	{%- else -%}
-	<meta
-		content="{{ 'https://weebaruto.github.io/weeblog/assets/img/touring.jpg'}}"
-		property="og:image"
-	/>
-	{%- endif -%}
-
+ 	<meta property="og:image" content="https://weebaruto.github.io/weetree/assets/tree.png">
+	
 	<!-- Twitter Cards -->
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:site" content="@{{ site.social.twitter }}" />
