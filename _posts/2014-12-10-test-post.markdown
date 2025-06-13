@@ -5,5 +5,5 @@ date:   2025-06-01
 ---
 
 <p class="intro"><span class="dropcap">始</span>まりです。I cannot believe it's been 20 years since I started down this path, still figuring out how to be content, seeking the ability to "<a href="https://www.azlyrics.com/lyrics/rodneycrowell/songforthelife.html" target="_blank">listen to a sound like the sun going down</a>"</p>
-<img src="/assets/img/guardianangels.jpg" alt=""> 
+<img src="/assets/img/guardianangelssmall.jpg" alt=""> 
 
