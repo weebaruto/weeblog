@@ -11,4 +11,4 @@ date:   2025-06-01
 <p><span class="dropcap">T</span>hank you both,<br>
 My Guardian Angels!
 </p>
-<img src="/assets/img/guardianangelssmall.jpg" alt="my guardian angels">
+<img src="https://github.com/weebaruto/weeblog/assets/img/guardianangelssmall.jpg" alt="my guardian angels">
