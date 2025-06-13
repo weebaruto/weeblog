@@ -1,7 +1,7 @@
 title: 90-in-90
 description: 
 
-url: https://github.com/weebaruto/weeblog
+url: https://weebaruto.github.io/weeblog
 # Only necessary when hosting your site in a sub-directory. Project sites hosted on GitHub Pages are the common use-case of this variable.
 #baseurl: /weeblog
 paginate_path: "blog/page:num/"
