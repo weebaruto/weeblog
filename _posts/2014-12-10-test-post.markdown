@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "始まり"
+title:  "始まりましょう"
 date:   2025-06-01
 description: 始まりましょう。I cannot believe it's been 20 years since I started down this path, though I am still figuring it out..."
 ---
