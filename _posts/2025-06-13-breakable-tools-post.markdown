@@ -12,5 +12,6 @@ description: Breakable Tools - My original intention for this upcoming gap was t
 * Spend some quality time in Japan
 * Rekindle the coding vibe
 
-<p>My first thought was to blog about the whole experience, rushing to check out existing platforms. NO, lets not fall into that trap again! We will build something, surely we can achive that? Hence, I started down that age old adage of employing "Breakable Tools", something fun to do, something I am not worried about be perfect, something I can learn from.</p>
+<p>My first thought was to blog about the whole experience, rushing to check out existing platforms. NO, lets not fall into that trap again! We will build something, surely we can achive that?</p>
+<p>Hence, I started down that age old adage of employing "Breakable Tools", something fun to do, something I am not worried about be perfect, something I can learn from.</p>
 <p>It's barely a start, but I have done more check-ins in the last few weeks than the last 5+ years at work, here's hoping for many more.</p>
