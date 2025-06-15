@@ -2,10 +2,10 @@
 layout: post
 title:  "始まり"
 date:   2025-06-01
-description: 始まりです。I cannot believe it's been 20 years since I started down this path, though still figuring out how to be content, continually seeking the ability to "listen to a sound like the sun going down"
+description: 始まりましょう。I cannot believe it's been 20 years since I started down this path, though I am still figuring it out..."
 ---
 
-<p class="intro"><span class="dropcap">始</span>まりです。I cannot believe it's been 20 years since I started down this path, though still figuring out how to be content, continually seeking the ability to "<a href="https://www.azlyrics.com/lyrics/rodneycrowell/songforthelife.html" target="_blank">listen to a sound like the sun going down</a>"</p>
+<p class="intro"><span class="dropcap">始</span>まりましょう。I cannot believe it's been 20 years since I started down this path, though I am still figuring it out, continually seeking the ability to "<a href="https://www.azlyrics.com/lyrics/rodneycrowell/songforthelife.html" target="_blank">listen to a sound like the sun going down</a>"</p>
 <p> Recently, it was the Quarter of Century Club celebration for my former company, my wife included, congratulations MiaoMiao! Many of my former colleagues from across the world descended on New York City, and we all met up across a number of evenings.</p> 
 <p>A lot of new moments were made, but one struck an emotional chord, I bumped into my former bosses, who where both there at the beginning of my journey to get here. They provided so much to my career, my personal life, taking nothing in return, but happy to see me smiling...
 </p>
