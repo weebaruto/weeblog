@@ -2,6 +2,7 @@
 layout: post
 title:  "始まり"
 date:   2025-06-01
+description: 始まりです。I cannot believe it's been 20 years since I started down this path, though still figuring out how to be content, continually seeking the ability to "listen to a sound like the sun going down"
 ---
 
 <p class="intro"><span class="dropcap">始</span>まりです。I cannot believe it's been 20 years since I started down this path, though still figuring out how to be content, continually seeking the ability to "<a href="https://www.azlyrics.com/lyrics/rodneycrowell/songforthelife.html" target="_blank">listen to a sound like the sun going down</a>"</p>
