@@ -5,6 +5,6 @@ date:   2025-07-06
 description: "It's all Dilly's fault! The Go Gopher has been making multiple appearances across my internal newsletters, blogs and even leadership presentations, it's stuck in my head!"
 ---
 
-<p class="intro"><span class="dropcap">D</span>is my "partner in crime" at work, a foundation of knowledge on all things Site Reliability Engineering and an avid fan of the Go programming language, or perhaps he just has a thing for small blue gophers, who knows?</p>
+<p class="intro"><span class="dropcap">D</span>illy is my "partner in crime" at work, a fountain of knowledge on all things Site Reliability Engineering and an avid fan of the Go programming language, or perhaps he just has a thing for small blue gophers, who knows?</p>
 <p>Whether Dilly has influenced me or not, I have grown wary of Java and wanted to give something new a whirl, so I have found myself downloading <a href="https://www.jetbrains.com/go/" target="_blank">GoLand</a> and researching some tutorials to get me started…</p> 
 <img src="/weeblog/assets/img/go.png" alt="The Go Gopher">
